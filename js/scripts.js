@@ -1,0 +1,12 @@
+$(document).ready(function(){
+  $(".clickable").click(function(){
+    $(#show-photo).toggle();
+    $(#hide-photo).toggle();
+  });
+});
+$(document).ready(function(){
+  $(".press").click(function(){
+    $(#show).toggle();
+    $(#hide).toggle();
+  });
+});
