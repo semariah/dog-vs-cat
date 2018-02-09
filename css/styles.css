@@ -1,0 +1,13 @@
+#show-photo{
+  display: none;
+};
+#show{
+  display: none;
+};
+.clickable{
+  cursor: pointer;
+  color: #fff
+};
+.press{
+  cursor: pointer;
+};
